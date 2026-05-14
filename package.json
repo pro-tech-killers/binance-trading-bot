@@ -2,6 +2,14 @@
   "name": "binance-trading-bot",
   "version": "1.0.0",
   "description": "TypeScript spot trading bot for Binance (SuperTrend default, EMA+RSI optional)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pro-tech-killers/binance-trading-bot.git"
+  },
+  "homepage": "https://github.com/pro-tech-killers/binance-trading-bot#readme",
+  "bugs": {
+    "url": "https://github.com/pro-tech-killers/binance-trading-bot/issues"
+  },
   "type": "module",
   "main": "dist/index.js",
   "scripts": {

@@ -2,10 +2,10 @@
 
 **Keywords:** binance binance-spot binance-api binance-bot npm package binance-trading-bot ccxt trading-bot supertrend ema rsi zod typescript nodejs node-20 esm modules market-order dry-run testnet spot-trading crypto btc eth usdt algo-trading automated-trading automated-crypto quantitative paper-trading open-source long-only binance-testnet scalp swing grid-bot dca day-trading market-making signal-bot volatility ohlcv candlestick rest-api rate-limit spot-only no-futures stablecoin quote-invest
 
-**Repository (clone / issues / PRs):** [github.com/endless-sky-team/binance-trading-bot](https://github.com/endless-sky-team/binance-trading-bot)
+**Repository (clone / issues / PRs):** [github.com/pro-tech-killers/binance-trading-bot](https://github.com/pro-tech-killers/binance-trading-bot)
 
 
-**Related:** [coinbase-trading-bot](https://github.com/endless-sky-team/coinbase-trading-bot) · [bybit-trading-bot](https://github.com/AI4FinanceFoundation/bybit-trading-bot) · [ai-trading-agent](https://github.com/endless-sky-team/ai-trading-agent)
+**Related:** [coinbase-trading-bot](https://github.com/pro-tech-killers/coinbase-trading-bot) · [bybit-trading-bot](https://github.com/AI4FinanceFoundation/bybit-trading-bot) · [ai-trading-agent](https://github.com/endless-sky-team/ai-trading-agent)
 
 ---
 
